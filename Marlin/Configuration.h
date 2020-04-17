@@ -348,7 +348,6 @@
   #define DIRECT_MIXING_IN_G1      // Allow ABCDHI mix factors in G1 movement commands
   #define GRADIENT_MIX             // Support for gradient mixing with M166 and LCD
   #define GRADIENT_VTOOL           // Add M166 T to use a V-tool index as a Gradient alias
-  #define RETRACT_SYNC_MIXING      // Retract and restore all mixing steppers simultaneously
 #endif
 
 #if ENABLED (MIX)

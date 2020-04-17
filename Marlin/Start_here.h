@@ -1,5 +1,5 @@
 #pragma once
-#define SHORT_BUILD_VERSION "2+ Build 492"
+#define SHORT_BUILD_VERSION "2+ Build 493"
 #define CUSTOM_MACHINE_NAME "3D Printer"
 
 // Ctrl+click to open links
@@ -17,8 +17,9 @@
 // Post flash initilize the eeprom - M502+M500 or menu option load failsafe+store settings.                               |
 // Guides on my youtube, when you watch/like/subscribe/share it helps support the channel and helps it grow.              | 
 // Looking for help or have a question? join us on the discord or post on the forums.                                     |
-// Confirmed to compile with vscode and the platformio extension or marlin auto build extension                           |
+// Confirmed to compile with vscode and the platformio extension                                                          |
 // Sometimes Vscode gets weird click the trashcan clean button and restart vscode it often fixs the issue.                |
+// If you get a succeeded compile all "problems" should be ignored only a real error means anything.                      |  
 //-------------------------------------------------------------------------------------------------------------------------
 
 //(Step 1) enable 1 base model/frame
